@@ -1,0 +1,5 @@
+G:\Dropbox\src\VSS2010\Projects\FixLSIFilenames\FixLSIFilenames\bin\Release\FixLSIFilenames.exe
+G:\Dropbox\src\VSS2010\Projects\FixLSIFilenames\FixLSIFilenames\bin\Release\FixLSIFilenames.pdb
+G:\Dropbox\src\VSS2010\Projects\FixLSIFilenames\FixLSIFilenames\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Dropbox\src\VSS2010\Projects\FixLSIFilenames\FixLSIFilenames\obj\x86\Release\FixLSIFilenames.exe
+G:\Dropbox\src\VSS2010\Projects\FixLSIFilenames\FixLSIFilenames\obj\x86\Release\FixLSIFilenames.pdb

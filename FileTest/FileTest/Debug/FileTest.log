@@ -1,0 +1,25 @@
+﻿Build started 9/16/2013 11:33:59 AM.
+     1>Project "G:\Dropbox\src\VSS2010\Projects\FileTest\FileTest\FileTest.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "G:\Dropbox\src\VSS2010\Projects\FileTest\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\FileTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt text_writer.cpp /clr:nostdlib 
+         text_writer.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\mmassey\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Dropbox\src\VSS2010\Projects\FileTest\Debug\FileTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\FileTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Dropbox\src\VSS2010\Projects\FileTest\Debug\FileTest.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\text_writer.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         FileTest.vcxproj -> G:\Dropbox\src\VSS2010\Projects\FileTest\Debug\FileTest.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\Dropbox\src\VSS2010\Projects\FileTest\Debug\FileTest.exe;#1" /manifest Debug\FileTest.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\FileTest.unsuccessfulbuild".
+         Touching "Debug\FileTest.lastbuildstate".
+     1>Done Building Project "G:\Dropbox\src\VSS2010\Projects\FileTest\FileTest\FileTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.49

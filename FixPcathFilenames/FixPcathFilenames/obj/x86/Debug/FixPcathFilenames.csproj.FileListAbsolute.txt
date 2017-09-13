@@ -1,0 +1,5 @@
+G:\Dropbox\src\VSS2010\Projects\FixPcathFilenames\FixPcathFilenames\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Dropbox\src\VSS2010\Projects\FixPcathFilenames\FixPcathFilenames\bin\Debug\FixPcathFilenames.exe
+G:\Dropbox\src\VSS2010\Projects\FixPcathFilenames\FixPcathFilenames\bin\Debug\FixPcathFilenames.pdb
+G:\Dropbox\src\VSS2010\Projects\FixPcathFilenames\FixPcathFilenames\obj\x86\Debug\FixPcathFilenames.exe
+G:\Dropbox\src\VSS2010\Projects\FixPcathFilenames\FixPcathFilenames\obj\x86\Debug\FixPcathFilenames.pdb

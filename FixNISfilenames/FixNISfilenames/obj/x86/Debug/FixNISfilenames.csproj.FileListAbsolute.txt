@@ -1,0 +1,5 @@
+G:\Dropbox\src\VSS2010\Projects\FixNISfilenames\FixNISfilenames\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Dropbox\src\VSS2010\Projects\FixNISfilenames\FixNISfilenames\bin\Debug\FixNISfilenames.exe
+G:\Dropbox\src\VSS2010\Projects\FixNISfilenames\FixNISfilenames\bin\Debug\FixNISfilenames.pdb
+G:\Dropbox\src\VSS2010\Projects\FixNISfilenames\FixNISfilenames\obj\x86\Debug\FixNISfilenames.exe
+G:\Dropbox\src\VSS2010\Projects\FixNISfilenames\FixNISfilenames\obj\x86\Debug\FixNISfilenames.pdb

@@ -1,0 +1,5 @@
+G:\Dropbox\src\VSS2010\Projects\FileSelectAndCopy\FileSelectAndCopy\bin\Debug\FileSelectAndCopy.exe
+G:\Dropbox\src\VSS2010\Projects\FileSelectAndCopy\FileSelectAndCopy\bin\Debug\FileSelectAndCopy.pdb
+G:\Dropbox\src\VSS2010\Projects\FileSelectAndCopy\FileSelectAndCopy\obj\x86\Debug\FileSelectAndCopy.exe
+G:\Dropbox\src\VSS2010\Projects\FileSelectAndCopy\FileSelectAndCopy\obj\x86\Debug\FileSelectAndCopy.pdb
+G:\Dropbox\src\VSS2010\Projects\FileSelectAndCopy\FileSelectAndCopy\obj\x86\Debug\FileSelectAndCopy.csprojResolveAssemblyReference.cache
