@@ -1,0 +1,9 @@
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\bin\Debug\RenameCytocam.exe.config
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\bin\Debug\RenameCytocam.exe
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\bin\Debug\RenameCytocam.pdb
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\obj\Debug\RenameCytocam.csprojResolveAssemblyReference.cache
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\obj\Debug\RenameCytocam.Form1.resources
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\obj\Debug\RenameCytocam.Properties.Resources.resources
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\obj\Debug\RenameCytocam.csproj.GenerateResource.Cache
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\obj\Debug\RenameCytocam.exe
+C:\Users\mmassey\Source\Repos\Braedius\RenameCytocam\RenameCytocam\obj\Debug\RenameCytocam.pdb
