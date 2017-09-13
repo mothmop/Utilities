@@ -1,0 +1,9 @@
+G:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\bin\Release\cplist.exe
+G:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\bin\Release\cplist.pdb
+G:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\obj\x86\Release\cplist.exe
+G:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\obj\x86\Release\cplist.pdb
+E:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\obj\x86\Release\cplist.exe
+E:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\obj\x86\Release\cplist.pdb
+E:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\bin\Release\cplist.exe
+E:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\bin\Release\cplist.pdb
+E:\Dropbox (BIDMC)\src\VSS2010\Projects\cplist\cplist\obj\x86\Release\cplist.csprojResolveAssemblyReference.cache
