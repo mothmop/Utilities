@@ -1,0 +1,9 @@
+G:\Dropbox\src\VSS2010\Projects\AddAToFilename\AddAToFilename\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Dropbox\src\VSS2010\Projects\AddAToFilename\AddAToFilename\bin\Debug\AddAToFilename.exe
+G:\Dropbox\src\VSS2010\Projects\AddAToFilename\AddAToFilename\bin\Debug\AddAToFilename.pdb
+G:\Dropbox\src\VSS2010\Projects\AddAToFilename\AddAToFilename\obj\x86\Debug\AddAToFilename.exe
+G:\Dropbox\src\VSS2010\Projects\AddAToFilename\AddAToFilename\obj\x86\Debug\AddAToFilename.pdb
+G:\Dropbox (BIDMC)\src\VSS2010\Projects\AddAToFilename\AddAToFilename\obj\x86\Debug\AddAToFilename.exe
+G:\Dropbox (BIDMC)\src\VSS2010\Projects\AddAToFilename\AddAToFilename\obj\x86\Debug\AddAToFilename.pdb
+G:\Dropbox (BIDMC)\src\VSS2010\Projects\AddAToFilename\AddAToFilename\bin\Debug\AddAToFilename.exe
+G:\Dropbox (BIDMC)\src\VSS2010\Projects\AddAToFilename\AddAToFilename\bin\Debug\AddAToFilename.pdb
