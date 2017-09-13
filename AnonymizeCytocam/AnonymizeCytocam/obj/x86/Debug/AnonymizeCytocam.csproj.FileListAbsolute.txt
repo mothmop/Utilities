@@ -1,0 +1,5 @@
+G:\Dropbox\src\VSS2010\Projects\AnonymizeCytocam\AnonymizeCytocam\bin\Debug\AnonymizeCytocam.exe
+G:\Dropbox\src\VSS2010\Projects\AnonymizeCytocam\AnonymizeCytocam\bin\Debug\AnonymizeCytocam.pdb
+G:\Dropbox\src\VSS2010\Projects\AnonymizeCytocam\AnonymizeCytocam\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Dropbox\src\VSS2010\Projects\AnonymizeCytocam\AnonymizeCytocam\obj\x86\Debug\AnonymizeCytocam.exe
+G:\Dropbox\src\VSS2010\Projects\AnonymizeCytocam\AnonymizeCytocam\obj\x86\Debug\AnonymizeCytocam.pdb
